@@ -1,0 +1,136 @@
+What do the White House, Sports Illustrated, and my cousin Jimmy all have in common?
+
+They all publish content on Medium.
+
+For the White House, that content includes State of the Union addresses and policy announcements. Sports Illustrated, meanwhile, manages a sports news publication called The Cauldron. My cousin Jimmy? He publishes an ongoing series on advanced cat grooming techniques.
+
+And that, my friends, is Medium in microcosm.
+
+Medium is a social publishing platform that is open to all and home to a diverse array of stories, ideas, and perspectives. Anyone can be an individual contributor, and popular topics on Medium range from mental health to social media, and from world affairs and trending news to productivity hacks.
+
+As Medium founder (and Blogger creator/Twitter co-founder) Ev Williams wrote when he first launched the platform in 2012:
+
+To help emphasize the importance of what it is you're saying, the overall design of Medium is minimalistic, featuring lots of white space and limited formatting options. Want to change the header typeface to Comic Sans? You can't. Medium won't allow for such atrocities of design.
+
+But that's just one of many little nuances that come with the territory for Medium users. In fact, if you're just getting started on the platform, there's a fair amount to learn before you hit publish. Let's get into it ...
+
+Anyone who has a Medium account can write for Medium — there's no other vetting process involved. To get started, simply sign up for a free Medium account (or upgrade to the full $5/month membership for unlimited access), and you're ready to start writing from there.
+
+However, your post needs to adhere to Medium's content guidelines and rules. For instance, you can't promote controversial or extreme content on your Medium account. You can't facilitate buying or selling social media interactions, including off-platform. And you can't publish anything considered affiliate marketing content.
+
+For the full list of rules in regards to content, take a look at this post on Medium Rules.
+
+As a marketer, Medium presents an opportunity for you to reach a new audience with your content. The platform is geared toward sharing longer-form, more well-thought-out content. (But of course, given the open-to-all nature of Medium, that isn't the only type of content you find there.)
+
+Whether you're looking into Medium for its publishing capabilities or you simply want to learn more about the platform before you set up an account and start exploring, you've come to the right place.
+
+How to Use Medium
+
+While it's true that anyone can view Medium content (regardless of whether or not they have a Medium account), in order to publish and interact with folks on the platform, you need to have an account and be logged in.
+
+Fortunately, you can create an account in less than a minute by going to Medium.com and clicking the "Get started" button in the center of the page (or the "Sign in / Sign up" link at the top of the page). From there you'll have three different sign-up options to choose from: Google, Facebook, and email.
+
+My recommendation: Sign up for Medium using Facebook. That way all of your existing connections from Facebook who are on Medium will automatically be following your account once it's created. This saves you the trouble of having to build up a new audience entirely from scratch.
+
+Regardless of the option you go with to start, you can always link your Twitter or Facebook to your Medium account later via the "Connections" tab in the Settings menu:
+
+The Settings menu is also where you can update your username/profile page URL. If you sign up with Twitter, your profile page URL, by default, will be medium.com/@YourTwitterHandle. But you're free to change it. From the Settings menu you can also control what email notifications you receive from Medium. (You'll learn about what triggers these notifications in the sections to follow.)
+
+
+
+The other main things to remember when it comes to setup? Adding a profile photo and writing up a short (160-character max) bio for your Medium profile page. (Note: If you sign up using Twitter, your Twitter profile photo and bio will be automatically synced to your Medium account.)
+
+With a Twitter feed, the content that's surfaced comes primarily from the accounts of the people and organizations you follow.
+
+With a Medium feed, the content that's surfaced comes not only from the accounts of the people and organizations you follow, but also from the publications and tags you follow. What's more, when you search for content on Medium, people, publications, and tags all show up in the results.
+
+Medium publications are collections of stories based around a common theme. Anyone can create them — yourself included — and the way they work is fairly straightforward.
+
+As the creator of a publication, you're an editor by default, which means you have the ability to a) add writers to your publication, b) edit and publish the stories that are submitted by your writers, and c) review the metrics for all of the stories that are part of your publication. As the publication's creator, you'll also have the ability to appoint new editors (so they can do all of that stuff I just mentioned).
+
+Now, on to tags.
+
+Tags are sort of like the hashtags of the Medium ecosystem. When you publish a story on Medium, you get the option to add up to three tags, which appear at the bottom of your story. Clicking a tag brings you to a page where you can see more stories with the same tag, as well as some suggestions for other tags you might be interested in.
+
+The main benefit of following tags is that it can help personalize your Medium experience. Instead of surfacing content based solely on your social graph (i.e., the people/publications you follow), Medium uses tags to surface content that's based on your specific interests as well. For example, if you're into baseball, you could follow the "baseball" tag. Into "small fluffy dog breeds"? Yep, there's a tag for that (granted only one story has been published under it).
+
+So far in this introduction to Medium, we've acted mostly as passive observers. We've set up an account, and started following some accounts, publications, and tags. In the next section, we'll dive into the more interactive aspects of Medium.
+
+How to Interact With Medium Content
+
+The "Recommend" is the "Like" of the Medium world. It's a way to show you that you appreciate the content that someone has shared.
+
+When reading a story on Medium, there are two places where you can recommend it: At the bottom of the actual story, where you see the clapping hand symbol ...
+
+Or on the nav bar that appears at the left of the screen when you scroll through a story ...
+
+In either case, you'll need to click on the clapping hand icon you see to recommend a story. Once clicked, the hands will change from an outline to solid green. To see the full list of people who've recommended a story, you can click on that little number you see next to the heart. (Note: You can clap up to 50 times per post, and you can clap for as many posts as you want.)
+
+When you recommend a story, the writer, by default, will receive an email notification. (But that's something you can control in Settings). The more recommends a story receives, the more likely it will be to get shared around the Medium network. Stories that receive the most recommends within a given time period get featured on Medium's "Top stories" page.
+
+In the same two locations where you can recommend a story, you can also share that story to Twitter or Facebook (by clicking one of the social icons), and you can bookmark the story for later reading by clicking the bookmark icon (which turns solid once clicked).
+
+Once you bookmark a story, it will appear on your "Lists" page, which you can access from Medium's homepage on the bookmark icon:
+
+In addition to recommending, sharing, and bookmarking Medium stories, you can unlock a second level of interaction by selecting a section of text with your cursor. Once you've highlighted some text, a pop-up menu will appear that gives you four options:
+• Highlight: Clicking the highlighter icon (pencil symbol) will put a green highlight around the text you've selected, which is visible to your Medium followers. By default, a story's writer will receive a notification when a section of that story is highlighted.
+• Response: Clicking the speech bubble icon will allow you to write a response to the story you're reading. The section of text you've highlighted will appear at the top of your response. (More on responses in a second!)
+• Text Shot: Clicking the Twitter icon will generate a "Text Shot," which is a tweet that automatically pulls in the text you've highlighted as a screenshot.
+• Private Note: Clicking the lock icon will allow you to send the writer of the story a private note. (Note: This functionality can be turned on and off in your account settings.)
+
+Unlike traditional blog comments, Medium responses are treated as individual stories. That means in addition to appearing at the bottoms of the stories you respond to, the responses you write are documented on your profile page, and have the potential to take off and get highly circulated just like traditional stories.
+
+As a newcomer to Medium, writing responses can be a great way to engage with people on the platform without having to commit to writing a full-blown story. It can also help you come up with ideas for your first story when you do decide to write it.
+
+How to Write and Publish on Medium
+
+From the Medium homepage, you can access the Medium editor and start writing or laying out a story by clicking on your profile icon at the top-right of the Medium page, and then selecting "Write a story":
+
+As you'll likely discover, writing in Medium's editor is highly intuitive and — from a stylistic perspective — nearly impossible to screw up.
+
+By highlighting text, you can unveil several basic formatting options, including bold, italics, and hyperlinking. You can also designate text as an H1 or as an H2 (using the big T or little t) ...
+
+And you can choose between two different styles of blockquotes. Option A:
+
+Of course, if you really want to get fancy, you can use Medium's drop caps function. Know those enlarged, stylized letters you sometimes see at the beginning of sentences? Those are drop caps. According to the Medium team, they're useful for "pacing, starting a new chapter, or just a little typographical delight."
+
+Another option for creating some separation between different sections of a story in Medium is to use a part, or separator. In order to insert one, you'll first need to click that little plus icon that appears when you're on an empty line of your story.
+
+Clicking that plus icon will open up a menu with four options. The one on the far right -- the icon with the two little lines -- is the separator.
+
+Here's what it looks like on the page:
+
+Adding images, videos, and other media (e.g., tweets) to your Medium story can be as simple as copying and pasting their URLs into Medium's editor. The editor, in most cases, can automatically recognize the media's format and render it accordingly.
+
+Alternatively, you can click on the plus icon to open the same menu you used to insert the separator in the previous step. From there, you can upload an image from your computer, insert a URL to a video, or insert the embed code to another type of media using the corresponding icons.
+
+Depending on the specific size of the image you upload, you'll have two different size options to choose from for displaying that image. These size options, which will appear in a pop-up menu after you insert an image, include left-aligned and center-aligned.
+
+By default, Medium will display the formatting option that best fits the dimensions of the image you insert.
+
+When you've finished your story and are happy with how everything looks, head up to the top nav where you'll find two links: "Share" and "Publish."
+
+Clicking "Share" will generate a link to the draft of your story, which you can share with anyone — even if they don't have a Medium account. And the people you share the draft with will also have the option of leaving you notes.
+
+Clicking the "Publish" button, meanwhile, will open a menu where you can select up to three tags for your story.
+
+Medium will recommend some tags by default, but you can also search for tags and create new ones by simply entering text.
+
+Once you've selected tags for your story, you can hit the "Publish" button to share your story with the world.
+
+In order to see how your stories (and responses) are performing, you can go to the "Stats" page using the URL medium.com/me/stats. You can also navigate to the "Stats" page via the dropdown menu at the top right of the Medium homepage (the bell icon).
+
+When you arrive on the "Stats" page, you'll first see the aggregate number of views, reads, and recommends your stories and responses have received over the past 30 days. There's also a graph that provides day-by-day granularity. By hovering over a column on the graph, you can view metrics for the specific day to which that column corresponds.
+
+If you keep scrolling down the page, you'll be able to view the individual stats for each of your stories. Specifically, Medium provides data on views, reads, read ratio, and recommends.
+
+Here's a quick rundown on what those metrics mean:
+• Views: The number of people who visited a story's page.
+• Reads: An estimate of how many visitors read a story all the way through.
+• Read Ratio: The percentage of visitors that ends up reading an entire story (i.e., the difference between reads and views). According to Ev Williams, this ratio is an important factor in determining how a story gets ranked/surfaced on Medium.
+
+If you prefer consuming and interacting with content on-the-go, consider downloading the Medium app. The app features the same stories and content you'll find on desktop, with the added bonus of a mobile-first interface.
+
+On the app, you can surface content related to your interests. These curated lists depend on the tags, publications, or authors you follow. You can also use the app's Explore feature to find new, interesting content. Similarly to desktop, you can use the app to engage with fellow Medium readers and join conversations as they're happening.
+
+Remember, this was just an introductory look at how to use Medium. There are several more features and options we haven't covered, but we'll do so in future posts.
